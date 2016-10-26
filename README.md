@@ -2,6 +2,12 @@
 
 AdStirのインテグレーションガイドです。Android環境（Android Studio, Eclipse）に対応しています。[iOSのインテグレーションガイドはこちら](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/ "iOSのインテグレーションガイド")からご覧いただけます。
 
+* [AdStir](https://ja.ad-stir.com/ "AdStir")
+* [AdStirログイン](https://ja.ad-stir.com/login "AdStirログイン")
+* [AdStir Integration Guide for iOS](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/ "AdStir Integration Guide for iOS")
+* [AdStir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "AdStir Integration Guide for Web")
+
+
 ## バナー広告の導入
 
 320x50, 300x250, 320x100などのサイズのバナーの導入方法です。
