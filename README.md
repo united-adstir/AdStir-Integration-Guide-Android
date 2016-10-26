@@ -12,13 +12,13 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 320x50, 300x250, 320x100などのサイズのバナーの導入方法です。
 
-[バナー広告の導入（Android Studio, Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%90%E3%83%8A%E3%83%BC%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "バナー広告の導入")
+[バナー広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%90%E3%83%8A%E3%83%BC%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "バナー広告の導入")
 
 ## アイコン広告の導入
 
 アイコン広告の導入方法です。
 
-[アイコン広告の導入（Android Studio, Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "アイコン広告の導入")
+[アイコン広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "アイコン広告の導入")
 
 ## 動画視聴型インセンティブ広告の導入
 
@@ -40,7 +40,7 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 Ad Exchangeのバナー広告の導入方法です。バックフィルにAdStir広告や、Amazon広告を使用することができます。
 
-[Ad Exchangeバナーの導入（Android Studio, Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeバナーの導入")
+[Ad Exchangeバナーの導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeバナーの導入")
 
 ## Google DoubleClick Ad Exchangeインタースティシャル広告の導入
 
