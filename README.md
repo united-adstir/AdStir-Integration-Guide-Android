@@ -40,7 +40,7 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 Ad Exchangeのバナー広告の導入方法です。バックフィルにAdStir広告や、Amazon広告を使用することができます。
 
-[Ad Exchangeバナーの導入（Android Studio, Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Google DoubleClick Ad Exchangeバナーの導入")
+[Ad Exchangeバナーの導入（Android Studio, Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeバナーの導入")
 
 ## Google DoubleClick Ad Exchangeインタースティシャル広告の導入
 
