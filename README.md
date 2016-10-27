@@ -25,6 +25,7 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 メディアのコンテンツに調和した形で自由にレイアウトを調整して配信する事が可能な広告形式です。
 
 * [ネイティブ広告の導入（フルカスタマイズ）の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "ネイティブ広告の導入（フルカスタマイズ）の導入")
+* [ネイティブ広告の導入（インフィード）の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5%EF%BC%88%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%EF%BC%89 "ネイティブ広告の導入（インフィード）の導入")
 * [ネイティブライクバナー広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%90%E3%83%8A%E3%83%BC%E3%81%AE%E6%8E%B2%E8%BC%89 "ネイティブライクバナー広告の導入")
 
 
