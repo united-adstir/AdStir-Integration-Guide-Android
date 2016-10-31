@@ -56,6 +56,12 @@ Ad Exchangeインタースティシャル広告の導入方法です。バック
 * [Ad Exchangeインタースティシャル広告の導入（Android Studio）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Android%E3%82%A2%E3%83%97%E3%83%AA%E3%81%B8%E3%81%AEAdExchange%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5%EF%BC%88Android-Studio%EF%BC%89 "Ad Exchangeインタースティシャル広告の導入（Android Studio）")
 * [Ad Exchangeインタースティシャル広告の導入（Eclipse）](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Android%E3%82%A2%E3%83%97%E3%83%AA%E3%81%B8%E3%81%AEAdExchange%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5%EF%BC%88Eclipse%EF%BC%89 "Ad Exchangeインタースティシャル広告の導入（Eclipse）")
 
+## Google AdMobメディエーションでの配信
+
+AdStirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
+
+* [AdMob広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdMob%E5%BA%83%E5%91%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3 "AdMob広告ネットワークメディエーション")
+
 ## お問い合わせ
 
 ご不明な点はお気軽に[お問い合わせ](https://ja.ad-stir.com/contact "お問い合わせ")ください。
