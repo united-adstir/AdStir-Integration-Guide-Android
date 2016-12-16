@@ -69,6 +69,9 @@ AdStirはAdMobメディエーションのカスタムイベントでの配信に
 ## APIリファレンス
 * [AdstirAds API Reference](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdstirAds-API-Reference)
 
+## 変更履歴
+* [変更履歴](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E5%A4%89%E6%9B%B4%E5%B1%A5%E6%AD%B4)
+
 ## お問い合わせ
 
 ご不明な点はお気軽に[お問い合わせ](https://ja.ad-stir.com/contact "お問い合わせ")ください。
