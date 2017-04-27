@@ -10,6 +10,12 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
+## サンプル
+
+サンプルプロジェクトをダウンロードすることができます。
+
+* [AdstirSampleApp](http://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.8.2-SampleApp.zip)
+
 ## 初期設定
 
 * [初期設定](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A(Android-Studio))
