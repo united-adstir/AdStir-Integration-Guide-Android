@@ -26,6 +26,12 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 * [バナー広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%83%90%E3%83%8A%E3%83%BC%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "バナー広告の導入")
 
+## スワイプインタースティシャル広告の導入
+
+縦表示アプリに全画面で表示できる広告の導入方法です。
+
+* [スワイプインタースティシャル広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E3%82%B9%E3%83%AF%E3%82%A4%E3%83%97%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "スワイプインタースティシャル広告の導入")
+
 ## ネイティブ広告の導入
 
 メディアのコンテンツに調和した形で自由にレイアウトを調整して配信する事が可能な広告形式です。
