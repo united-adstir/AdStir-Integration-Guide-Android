@@ -6,6 +6,10 @@
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
+## Sample Project
+
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.10.0-SampleApp.zip)
+
 ## Setup
 
 * [Initial-Setting(Android Studio)](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Initial-Setting(Android-Studio))
