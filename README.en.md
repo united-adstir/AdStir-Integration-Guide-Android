@@ -16,6 +16,10 @@
 
 * [Banner Ad Integration Guide(Android Studio)](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Banner-Ad-Integration-Guide(Android-Studio))
 
+### Native Ad
+
+* [Native Ad Integration Guide](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/NativeAd-Integration-Guide)
+
 ### Incentivized Video Ad
 
 * [Incentivized Video Ad Integration(Android Studio)](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/Incentiveized-Video-Integration-Guide(Android-Studio))
