@@ -14,7 +14,7 @@ AdStirのインテグレーションガイドです。Android環境（Android St
 
 サンプルプロジェクトをダウンロードすることができます。
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.10.0-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.11.3-SampleApp.zip)
 
 ## 初期設定
 
