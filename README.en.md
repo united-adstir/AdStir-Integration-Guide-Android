@@ -1,4 +1,4 @@
-# AdStir Integration Guide for Android
+# adstir Integration Guide for Android
 
 * [adstir](https://en.ad-stir.com/)
 * [adstir Publisher Console](https://en.ad-stir.com/login)
@@ -8,7 +8,7 @@
 
 ## Sample Project
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.11.3-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.11.4-SampleApp.zip)
 
 ## Setup
 
