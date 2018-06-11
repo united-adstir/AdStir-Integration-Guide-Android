@@ -20,11 +20,11 @@ adstirのインテグレーションガイドです。Android Studioに対応し
 
 * [初期設定](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A(Android-Studio))
 
-## 提携対応ネットワーク
+## 対応提携ネットワーク
 
 adstirが対応している提携ネットワーク一覧です。
 
-* [提携対応ネットワーク](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E6%8F%90%E6%90%BA%E5%AF%BE%E5%BF%9CNW)
+* [対応提携ネットワーク](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E6%8F%90%E6%90%BA%E5%AF%BE%E5%BF%9CNW)
 
 ## 導入方法
 ### バナー広告の導入
