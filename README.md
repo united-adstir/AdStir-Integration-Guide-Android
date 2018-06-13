@@ -24,7 +24,7 @@ adstirのインテグレーションガイドです。Android Studioに対応し
 
 adstirが対応している提携ネットワーク一覧です。
 
-* [対応提携ネットワーク](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E6%8F%90%E6%90%BA%E5%AF%BE%E5%BF%9CNW)
+* [対応提携ネットワーク](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/%E5%AF%BE%E5%BF%9C%E6%8F%90%E6%90%BANW)
 
 ## 導入方法
 ### バナー広告の導入
