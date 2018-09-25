@@ -8,7 +8,7 @@
 
 ## Sample Project
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.12.0-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkAndroid-2.13.0-SampleApp.zip)
 
 ## Setup
 
