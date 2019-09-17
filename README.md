@@ -82,13 +82,13 @@ Ad Exchange動画リワード広告の導入方法です。バックフィルに
 
 adstirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
 
-* [AdMob広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdMob%E5%BA%83%E5%91%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3 "AdMob広告ネットワークメディエーション")
+* [AdMob広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdMob広告ネットワークメディエーション "AdMob広告ネットワークメディエーション")
 
 ### Google AdMobネイティブ広告ネットワークメディエーションでの配信
 
 adstirはAdMobネイティブ広告ネットワークメディエーションのカスタムイベントでの配信に対応しています。
 
-* [AdMobネイティブ広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdMob%E5%BA%83%E5%91%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3 "AdMobネイティブ広告ネットワークメディエーション")
+* [AdMobネイティブ広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/"AdMobネイティブ広告ネットワークメディエーション")
 
 ### APIリファレンス
 
