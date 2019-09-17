@@ -78,6 +78,13 @@ Ad Exchange動画リワード広告の導入方法です。バックフィルに
 
 * [Ad Exchange動画リワード広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdExchange%E5%8B%95%E7%94%BB%E3%83%AA%E3%83%AF%E3%83%BC%E3%83%89 "Ad Exchange動画リワード広告の導入")
 
+## Google DoubleClick Ad Exchangeネイティブ広告の導入
+
+Ad Exchangeネイティブ広告の導入方法です。バックフィルに[ネイティブ広告](#ネイティブ広告の導入)が使用されます。
+
+* [Ad Exchangeネイティブ広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-Android/wiki/AdMob広告ネットワークメディエーション "Ad Exchangeネイティブ広告の導入")
+
+
 ### Google AdMobメディエーションでの配信
 
 adstirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
